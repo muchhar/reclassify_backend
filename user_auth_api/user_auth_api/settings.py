@@ -8,6 +8,7 @@ https://docs.djangoproject.com/en/5.2/topics/settings/
 
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.2/ref/settings/
+https://speeding-equinox-970796.postman.co/workspace/My-Workspace~b315afe5-77db-4796-8702-1e2054124984/collection/26825909-494f961b-7af4-43d2-a841-f89432a7f01f?action=share&creator=26825909
 """
 
 from pathlib import Path
